@@ -5,6 +5,7 @@ class Employee2Controller extends Controller
 	public function actionWelcome()
 	{
 		$this->render('welcome');
+		//hello hkx 20140220
 	}
 
 	// Uncomment the following methods and override them if needed
